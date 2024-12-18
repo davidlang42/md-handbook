@@ -14,18 +14,18 @@ This handbook is provided as-is, with no guarantees, as a suggestion of how to a
 
 ## Contents
 
-[Assembling the Music](/arrangement/index)
+[Assembling the Music](/arrangement/index.md)
 
-[The Audition Process](/auditions/index)
+[The Audition Process](/auditions/index.md)
 
-[The Casting Process](/casting/index)
+[The Casting Process](/casting/index.md)
 
-[Rehearsal season](/rehearsals/index)
+[Rehearsal season](/rehearsals/index.md)
 
-[The Orchestra](/orchestra/index)
+[The Orchestra](/orchestra/index.md)
 
-[The Recording Process](/recording/index)
+[The Recording Process](/recording/index.md)
 
-[Theatre season](/theatre/index)
+[Theatre season](/theatre/index.md)
 
-[Conducting theory](/conducting/index)
+[Conducting theory](/conducting/index.md)
